@@ -13,7 +13,7 @@ export default function ProjectsSection() {
       title: "Real-Time Fleet Monitoring & Predictive Maintenance",
       description:
         "A comprehensive solution for monitoring fleet vehicles in real-time and predicting maintenance needs using machine learning models.",
-      image: "/my-portfolio/fleet.jpg",
+      image: "/fleet.jpg",
       tags: ["Pub/Sub", "Dataflow", "Vertex AI", "BigQuery"],
       demoLink: "https://lookerstudio.google.com/reporting/2ea8a34a-f536-4400-a81d-375385475dca",
       repoLink: "https://github.com/COutSatish/fleet-monitoring-system",
@@ -22,7 +22,7 @@ export default function ProjectsSection() {
       title: "AI Image Generator with Streamlit and DALL·E 3",
       description:
         "A web application that generates images based on text prompts using OpenAI's DALL·E 3 model, deployed on Google Cloud Run.",
-      image: "/my-portfolio/AI.jpg",
+      image: "/AI.jpg",
       tags: ["Cloud Run", "GCS", "Streamlit", "DALL·E 3"],
       demoLink: "#",
       repoLink: "https://github.com/COutSatish/AI-Image-Generator-with-OpenAI-s-DALL-E-3-Model",
