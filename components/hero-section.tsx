@@ -40,7 +40,7 @@ export default function HeroSection() {
           </Button>
 
           <Button className="gap-2 transition-all hover:scale-105" variant="secondary" size="lg" asChild>
-            <a href="/Satish_Kumar_Pyata_Resume.pdf" download>
+            <a href="/my-portfolio/Satish_Kumar_Pyata_Resume.pdf" download>
               <FileDown className="h-5 w-5" />
                Download Resume
             </a>
